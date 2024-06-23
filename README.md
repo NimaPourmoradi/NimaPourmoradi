@@ -1,15 +1,17 @@
 # Hello everybody 👋
 
+<img width="400" height="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" >
+
 <a href="https://t.me/Nima_Pourmoradi">
-  <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/c477cc84-31d4-49e9-9e0c-51f7e244fece"/>
+  <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/c477cc84-31d4-49e9-9e0c-51f7e244fece"/></a>
 
 <a href="www.linkedin.com/in/nima-pourmoradi">
-  <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/5fc5db74-9076-4b7b-877c-8bf54f119bb8"/>
+  <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/5fc5db74-9076-4b7b-877c-8bf54f119bb8"/></a>
 
 <a href="https://www.kaggle.com/nimapourmoradi">
-  <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/b67db367-516c-47a8-a8bf-d4075245c0d4"/>
+  <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/b67db367-516c-47a8-a8bf-d4075245c0d4"/></a>
 
-<img width="400" height="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" >
+
 
 * #### 👨‍💻 My name is **NimaPourmoradi**
 * #### 🔭 I’m currently learning and working on **Computer Vision**.

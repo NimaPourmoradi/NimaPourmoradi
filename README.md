@@ -35,4 +35,4 @@
 <img src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/67bef915-8e7b-4456-9233-ab3b26128355" alt="matplotlib" width="45" height="45"/>
 </p>
 
-
+![Snake animation](https://github.com/NimaPourmoradi/NimaPourmoradi/blob/output/github-contribution-grid-snake.svg)

@@ -1,11 +1,12 @@
 # Hello everybody 👋
 
-<img width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" >
+<img width="400" height="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" >
 
 
-* 👨‍💻 My name is **NimaPourmoradi**
-* 🔭 I’m currently learning and working on **Computer Vision**.
-* ❤️ I love learning, reading and video game.
+* #### 👨‍💻 My name is **NimaPourmoradi**
+* #### 🔭 I’m currently learning and working on **Computer Vision**.
+* #### ❤️ I love learning, reading and video game.
+* #### ⭐ I'm kaggle 2x Grand Master. 
 
 <a href="https://t.me/Nima_Pourmoradi">
   <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/c477cc84-31d4-49e9-9e0c-51f7e244fece"/>

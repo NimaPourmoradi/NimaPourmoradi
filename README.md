@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello everybody 👋
 
-<!--
-**NimaPourmoradi/NimaPourmoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👨‍💻 My name is **NimaPourmoradi**
+* 🔭 I’m currently learning and working on **Computer Vision**.
+* ❤️ I love learning, reading and video game.
 
-Here are some ideas to get you started:
+<a href="https://t.me/Nima_Pourmoradi">
+  <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/c477cc84-31d4-49e9-9e0c-51f7e244fece"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="www.linkedin.com/in/nima-pourmoradi">
+  <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/5fc5db74-9076-4b7b-877c-8bf54f119bb8"/>
+
+<a href="https://www.kaggle.com/nimapourmoradi">
+  <img height="50" src="https://github.com/NimaPourmoradi/NimaPourmoradi/assets/76859791/b67db367-516c-47a8-a8bf-d4075245c0d4"/>

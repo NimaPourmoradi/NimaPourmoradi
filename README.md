@@ -33,22 +33,26 @@
 
 ![numpy](https://img.shields.io/badge/numpy-3178C6?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-red?style=for-the-badge&logo=pl&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-yellow?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-brown?style=for-the-badge&logo=Folium&logoColor=white)
 ![opencv](https://img.shields.io/badge/opencv-gray?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scipy](https://img.shields.io/badge/Scipy-navy?style=for-the-badge&logo=Scipy&logoColor=white)
+
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-red?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![keras](https://img.shields.io/badge/keras-3178C6?style=for-the-badge&logo=keras&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-green?style=for-the-badge&logo=pytorch&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-brown?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ![random](https://img.shields.io/badge/random-navy?style=for-the-badge&logo=random&logoColor=white)
 ![os](https://img.shields.io/badge/os-black?style=for-the-badge&logo=os&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-red?style=for-the-badge&logo=pl&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-gold?style=for-the-badge&logo=seaborn&logoColor=white)
 ![termcolor](https://img.shields.io/badge/termcolor-cyan?style=for-the-badge&logo=termcolor&logoColor=white)
+
 ![torchvision](https://img.shields.io/badge/torchvision-yellow?style=for-the-badge&logo=torchvision&logoColor=white)
 ![kerascv](https://img.shields.io/badge/kerascv-lightblue?style=for-the-badge&logo=kerascv&logoColor=white)
 ![IPython](https://img.shields.io/badge/IPython-purple?style=for-the-badge&logo=IPython&logoColor=white)
 ![PIL](https://img.shields.io/badge/PIL-black?style=for-the-badge&logo=PIL&logoColor=white)
+![datetime](https://img.shields.io/badge/datetime-yellow?style=for-the-badge&logo=datetime&logoColor=white)
 
 
 
